@@ -36,7 +36,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jemoji
-  - jekyll-admin
+#  - jekyll-admin
 jekyll-mentions:
   base_url: 'https://github.com'
 compress_html:
