@@ -3,7 +3,7 @@ bio: 'Software Engineer from Kyiv, Ukraine'
 description: A personal page
 external-image: false
 picture: assets/images/profile.jpg
-resume: true
+resume: false
 resume-external: true
 resume-url: 'https://google.com/?q=my+resume'
 url: 'https://koppl.in/indigo'
@@ -24,7 +24,7 @@ authors:
 width: normal
 projects: false
 about: true 
-blog: true
+blog: false
 read-time: true
 show-tags: true
 related: true
