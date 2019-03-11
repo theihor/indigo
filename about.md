@@ -8,7 +8,7 @@ Hi! I am a software engineer from Kyiv, Ukraine. I've started to work in softwar
 development when I still was a student at the [KPI](https://kpi.ua/en), and it's been more than 6 years 
 of professional experience now. I've got my Master's degree in 2017.
 
-[comment]: <> (<p>If you happen to be interested in my professional skills and experience here is my <a href="{% link /assets/docs/resume.pdf %}">one-page resume</a> and here is my <a href="{% link /assets/docs/cv.pdf %}">detailed CV</a>. You can reach me by an email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>. I check it I promise.</p>)
+<p>If you happen to be interested in my professional skills and experience here is my <a href="{% link /assets/docs/resume.pdf %}">one-page resume</a> and here is my <a href="{% link /assets/docs/cv.pdf %}">detailed CV</a>. You can reach me by an email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>. I check it I promise.</p>
 
 Currently I work with ISS Soft Ukraine on development of compilers and tools for code analysis.
 Most of the time I program in Common Lisp, though I am familiar with a number of other
